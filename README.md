@@ -18,13 +18,13 @@ Here’s an example of how the program works:
 
 *(Example of adding elements to different FixedLists with defined capacities.)*  
 
-<img src="https://github.com/user-attachments/assets/db56c7d8-3fde-474e-8b1f-9db37be81c29" alt="Image" width="500" height="200">
+<img src="https://github.com/user-attachments/assets/db56c7d8-3fde-474e-8b1f-9db37be81c29" alt="Image" width="620" height="400">
 
 ### 🎨 Program Output  
 
 *(Example of how the program prints the list sizes and handles capacity overflow.)*  
 
-<img src="https://github.com/user-attachments/assets/6534626f-6445-4bf9-a07b-d3f5a0144ea2" alt="Screenshot" width="500" height="200">
+<img src="https://github.com/user-attachments/assets/6534626f-6445-4bf9-a07b-d3f5a0144ea2" alt="Screenshot" width="650" height="100">
 
 ## 🚀 How It Works  
 
