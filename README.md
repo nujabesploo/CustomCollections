@@ -76,5 +76,3 @@ If you plan to publish your own version, please:
 
 🔹 Include an acknowledgment of this original project.  
 🔹 Clearly outline any modifications or enhancements.  
-
---
